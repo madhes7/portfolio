@@ -1,0 +1,17 @@
+
+
+
+
+ .topContainer{
+   
+     background-image: url('../../assets/360_F_554477926_yKEcMeDTD1oLqKQCjvpryeT5zHLMunNh.jpg');
+    height: 100vh;
+    
+    background-position: right;
+    background-size: cover ;
+    
+    background-repeat: no-repeat;
+    position: relative;
+     
+} 
+
