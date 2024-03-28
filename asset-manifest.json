@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d6c9049d.css",
+    "main.js": "/portfolio/static/js/main.ea55e31e.js",
+    "static/media/madhes.jpg": "/portfolio/static/media/madhes.f6c801d139515cb1183c.jpg",
+    "static/media/voting.png": "/portfolio/static/media/voting.0cfa4ac09191d9c2c955.png",
+    "static/media/Document from Madheswaran.pdf": "/portfolio/static/media/Document from Madheswaran.05afac3d6a9909a760d0.pdf",
+    "static/media/java.png": "/portfolio/static/media/java.887dce16f1a48174a036.png",
+    "static/media/python.png": "/portfolio/static/media/python.19c29c21e2a4810a5727.png",
+    "static/media/360_F_554477926_yKEcMeDTD1oLqKQCjvpryeT5zHLMunNh.jpg": "/portfolio/static/media/360_F_554477926_yKEcMeDTD1oLqKQCjvpryeT5zHLMunNh.6379c901b323723cd2cd.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/C .png": "/portfolio/static/media/C .30e8acff157f8fa06702.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.08f51ddc9af96699ff07.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.fc70beba8dd84ce6e77b.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "index.html": "/portfolio/index.html",
+    "main.d6c9049d.css.map": "/portfolio/static/css/main.d6c9049d.css.map",
+    "main.ea55e31e.js.map": "/portfolio/static/js/main.ea55e31e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c9049d.css",
+    "static/js/main.ea55e31e.js"
+  ]
+}
