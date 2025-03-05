@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'react-scroll';
 import './topcontent.css';
 import Mady from '../../assets/madhes.jpg'
-import Port from '../../assets/Document from Madheswaran.pdf';
+import Port from '../../assets/Madheswaran_M.pdf';
 const topcontent = () => {
   return (
     <div className='topcontent'>
@@ -15,7 +15,7 @@ const topcontent = () => {
           <p>Hi, I am </p>
             <h1>Madheswaran M</h1>
             <p>A professional Web developer</p>
-            <a href={Port} download='Madhes CV.pdf'>
+            <a href={Port} download='Madheswaran_M.pdf'>
                 <button className='download'> Download CV</button>
             </a>
             <Link to='pro' smooth='true' duration={500}>
